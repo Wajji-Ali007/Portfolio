@@ -1,0 +1,24 @@
+Aurora PORTFOLIO — QUICK EDIT GUIDE
+=====================================
+
+1. Open index.html in a text editor (Notepad works). No coding app is needed. Each folder has its own index.html, style.css, script.js, assets folder, and GUIDE.txt.
+2. Press Ctrl+H (Find and Replace) to change the sample name “Areeba Khan”, email,
+   job title, companies, dates, descriptions, skills, and links. Keep the quote marks.
+3. Search for “FIELD GUIDE” in index.html to find the editing map and photo instructions.
+4. PHOTO: put your image inside the assets folder, for example assets/my-photo.jpg.
+   In index.html find: src="assets/profile-placeholder.svg"
+   Change it to: src="assets/my-photo.jpg"
+   Change the alt text to your name. Use a clear vertical portrait (JPG/PNG/WebP).
+   The page is the HTML file; its image link is the src path above. This is the only photo setting.
+5. PROJECT LINKS: the sample project cards are in the “Selected work” section.
+   Add an <a href="https://your-link">View project ↗</a> inside a card to link a project.
+6. SAVE, then double-click index.html to preview in Chrome/Edge. On phone, send the
+   folder or host it online; keep the assets folder beside index.html.
+7. Click “Print / Save PDF”, choose “Save as PDF”, paper size A4, and enable
+   “Background graphics” for the intended colors. The button and navigation are
+   hidden automatically on paper. Print preview shows page breaks before saving.
+
+All personal sample text should be replaced before sharing. Edit index.html for words and information, style.css for colors/layout, and script.js for print and small motion effects. Keep all files in this folder together. The visitor page has no
+edit controls: your changes are made in this HTML file. You may rename the sample
+photo file or edit its src path. The screen has subtle motion; reduced-motion settings
+are respected, and animation is disabled in print. To share as a public view-only URL, upload the whole chosen template folder to any static website host; share the resulting folder/site URL. Keep index.html and assets together. The page itself has no editing interface.
